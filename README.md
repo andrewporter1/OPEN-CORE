@@ -2,6 +2,7 @@
 
 # kexts
 intel open wifi drivers
+
 alps trackpad drivers
 
 # bugs
@@ -11,3 +12,4 @@ bluetooth
 big sur
 
 # known working hardware
+toshiba pro r50-b-12p i3-4005u
